@@ -1,0 +1,11 @@
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.Host.exe.config
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.Host.exe
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.Host.pdb
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.dll
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.pdb
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\obj\Debug\WebApi.BackgroundWorker.Host.csprojResolveAssemblyReference.cache
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\obj\Debug\WebApi.BackgroundWorker.Host.exe
+c:\users\pvolgarev\documents\visual studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker.Host\obj\Debug\WebApi.BackgroundWorker.Host.pdb
+C:\Users\Pavel\Downloads\WebApi.SitemapService\WebApi.BackgroundWorker.Host\bin\Debug\WebApi.BackgroundWorker.Host.exe.config
+C:\Users\Pavel\Downloads\WebApi.SitemapService\WebApi.BackgroundWorker.Host\obj\Debug\WebApi.BackgroundWorker.Host.exe
+C:\Users\Pavel\Downloads\WebApi.SitemapService\WebApi.BackgroundWorker.Host\obj\Debug\WebApi.BackgroundWorker.Host.pdb

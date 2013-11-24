@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.SitemapService", "WebApi.SitemapService\WebApi.SitemapService.csproj", "{DCFB9578-D7AB-4279-9E5F-2CB9F49E00E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.BackgroundWorker.Host", "WebApi.BackgroundWorker.Host\WebApi.BackgroundWorker.Host.csproj", "{F4722533-AAC9-4369-8D80-FECA21D07FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.BackgroundWorker", "WebApi.BackgroundWorker\WebApi.BackgroundWorker.csproj", "{2B2611D3-6A83-43F5-B792-0B4F4EF122BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFB9578-D7AB-4279-9E5F-2CB9F49E00E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFB9578-D7AB-4279-9E5F-2CB9F49E00E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFB9578-D7AB-4279-9E5F-2CB9F49E00E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFB9578-D7AB-4279-9E5F-2CB9F49E00E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4722533-AAC9-4369-8D80-FECA21D07FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4722533-AAC9-4369-8D80-FECA21D07FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4722533-AAC9-4369-8D80-FECA21D07FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4722533-AAC9-4369-8D80-FECA21D07FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2611D3-6A83-43F5-B792-0B4F4EF122BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2611D3-6A83-43F5-B792-0B4F4EF122BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2611D3-6A83-43F5-B792-0B4F4EF122BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2611D3-6A83-43F5-B792-0B4F4EF122BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\pvolgarev\Documents\Visual Studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker\bin\Debug\WebApi.BackgroundWorker.dll
+C:\Users\pvolgarev\Documents\Visual Studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker\bin\Debug\WebApi.BackgroundWorker.pdb
+C:\Users\pvolgarev\Documents\Visual Studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker\obj\Debug\WebApi.BackgroundWorker.dll
+C:\Users\pvolgarev\Documents\Visual Studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker\obj\Debug\WebApi.BackgroundWorker.pdb
+C:\Users\pvolgarev\Documents\Visual Studio 2012\Projects\WebApi.SitemapService\WebApi.BackgroundWorker\obj\Debug\WebApi.BackgroundWorker.csprojResolveAssemblyReference.cache
