@@ -1,7 +1,7 @@
 Sitemap service (WCF + Microsoft Web API)
 ===============================================
 
-An example of using WCF callbacks with Web API for handling long running tasks. More information on this example can be found here: http://volgarev.me/blog/re-discovering-microsoft-web-api.
+An example of using WCF callbacks with Web API for handling long-running tasks. More information on this example can be found here: http://volgarev.me/blog/re-discovering-microsoft-web-api.
 
 ## Running this example ##
 
